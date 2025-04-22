@@ -47,7 +47,7 @@ This project applies **Hierarchical Clustering** to group customers based on the
     pip install pandas numpy matplotlib seaborn scikit-learn scipy
     ```
 
-3. Place your dataset (`Mall_Customers.csv`) in the `data` folder.
+3. Place your dataset (`cleaned_retail_data.csv`) in the `data` folder.
 
 4. Open the notebook:
     ```bash

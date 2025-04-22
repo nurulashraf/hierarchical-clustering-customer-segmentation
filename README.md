@@ -60,5 +60,4 @@ This project applies **Hierarchical Clustering** to group customers based on the
 
 ## License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software for personal or commercial use, as long as the original license is included.
+This project is licensed under the [MIT License](LICENSE).

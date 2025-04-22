@@ -38,8 +38,8 @@ This project applies **Hierarchical Clustering** to group customers based on the
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/nurulashraf/customer-segmentation-hierarchical-clustering.git
+    cd customer-segmentation-hierarchical-clustering
     ```
 
 2. Install dependencies:

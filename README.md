@@ -8,6 +8,8 @@ This project applies **Hierarchical Clustering** to group customers based on the
 
 - **`data/`**: Contains the dataset used for analysis and prediction.
 - **`notebooks/`**: Jupyter notebooks for data analysis, feature engineering, and model building.
+- **`requirements.txt`**: List of required Python packages
+- **`LICENSE`**: MIT License file
 - **`README.md`**: Project overview and usage instructions.
 
 ---

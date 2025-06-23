@@ -40,7 +40,7 @@ This project applies **Hierarchical Clustering** to group customers based on the
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/nurulashraf/customer-segmentation-hierarchical-clustering.git
+    git clone https://github.com/nurulashraf/hierarchical-clustering-customer-segmentation.git
     cd customer-segmentation-hierarchical-clustering
     ```
 

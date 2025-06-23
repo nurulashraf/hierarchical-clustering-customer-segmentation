@@ -53,7 +53,7 @@ This project applies **Hierarchical Clustering** to group customers based on the
 
 4. Open the notebook:
     ```bash
-    jupyter notebook customer_segmentation_hierarchical_clustering.ipynb
+    jupyter notebook hierarchical_clustering_customer_segmentation.ipynb
     ```
 
 5. Run the cells and explore the analysis.
